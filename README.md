@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is just "bootstrap Jumbotron" template with local dependencies.
 
 # Project Goals
 
